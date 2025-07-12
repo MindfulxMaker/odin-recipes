@@ -1,8 +1,8 @@
 /* Reset padding and margin */
-* {
+/* * {
     margin: 0;
     padding: 0;
-}
+} */
 
 /* Apply box-sizing best practice */
 html {
@@ -13,6 +13,9 @@ html {
 }
 
 /* STYLING */
+h1, h2 {
+    color: brown;
+}
 body {
     max-width: 600px;
     margin: 0 auto;
@@ -21,14 +24,14 @@ body {
 
 h1 {
     font-family: Times, 'Times New Roman', serif;
-    font-size: 48px;
-    margin-bottom: 32px;
+    font-size: 42px;
+    margin-top: 16px;
     text-align: center;
 }
 
 div {
     background-color: azure;
-    padding: 32px;
+    padding: 16px 48px;
     min-height: 100vh;
 }
 
@@ -46,3 +49,14 @@ div {
     background-color: chocolate;
     text-decoration: none;
 }
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+.credit {
+    display: block;
+    margin-top: 2px;
+    text-align: center;
+}
+
