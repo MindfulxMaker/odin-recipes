@@ -9,6 +9,8 @@ For images, I follow best practice that including alt attribute and default widt
 After completed Block and Inline course, I applied CSS using external file.
 The CSS I added is about box-sizing, color, background color, typography, margin, padding, display.
 
+Live Preview: https://mindfulxmaker.github.io/odin-recipes/
+
 
 ## How to write in this README?
 Set up your README.md file and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
